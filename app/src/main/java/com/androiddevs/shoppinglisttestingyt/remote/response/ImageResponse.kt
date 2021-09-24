@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt.data.remote.response
+package com.androiddevs.shoppinglisttestingyt.remote.response
 
 data class ImageResponse(
     val hits: List<ImageResult>,

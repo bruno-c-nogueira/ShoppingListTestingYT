@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt.data.remote.response
+package com.androiddevs.shoppinglisttestingyt.remote.response
 
 import com.google.gson.annotations.SerializedName
 
